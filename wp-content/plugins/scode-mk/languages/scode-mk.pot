@@ -1,0 +1,57 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: scode-mk\n"
+"POT-Creation-Date: 2023-01-05 10:30+0200\n"
+"PO-Revision-Date: 2023-01-05 10:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_attr_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: scode-mk.php:32 scode-mk.php:33
+msgid "Scode"
+msgstr ""
+
+#: scode-mk.php:62
+msgid "Saved!"
+msgstr ""
+
+#: scode-mk.php:83
+msgid "File seved on the server"
+msgstr ""
+
+#: scode-mk.php:85
+msgid "Save csv"
+msgstr ""
+
+#: scode-mk.php:103
+msgid "Download csv."
+msgstr ""
+
+#: scode-mk.php:111
+msgid "Possible file upload attack"
+msgstr ""
+
+#: scode-mk.php:133
+msgid "Add new"
+msgstr ""
+
+#: scode-mk.php:142
+msgid "Download"
+msgstr ""
+
+#: scode-mk.php:173
+msgid "Remove"
+msgstr ""
+
+#: scode-mk.php:183
+msgid "Save"
+msgstr ""
